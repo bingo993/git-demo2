@@ -6,5 +6,6 @@ public class git {
         System.out.println("bingo");
         System.out.println("333");
         System.out.println("master");
+        System.out.println("test");
     }
 }
